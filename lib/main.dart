@@ -17,7 +17,7 @@ class FlashChat extends StatelessWidget {
           bodyText1: TextStyle(color: Colors.black54),
         ),
       ),
-      home: const ChatScreen(),
+      home: const RegistrationScreen(),
     );
   }
 }
